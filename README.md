@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Estado-Em%20processo-yellow?style=plastic&labelColor=555" alt="Estado em processo">
 
-# 🚀 100 Dias programando e aprendendo Java! Dia 01
+# 🚀 100 Dias programando e aprendendo Java!
 
 <div>
 
@@ -41,6 +41,7 @@ Abaixo estão as referências que estou utilizando:
 - Anotações no GitHub
 - Compartilhamento de progresso
 
+### ⏳ Progresso: Dia 02
 
 </div>
 
