@@ -1,4 +1,4 @@
-package dia02;
+package dia02.exercicio_estoque;
    
 public class StockManager {
     // atributos

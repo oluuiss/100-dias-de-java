@@ -1,4 +1,4 @@
-package dia02;
+package dia02.exercicio_estoque;
 import java.util.Scanner;
 
 public class Stock {

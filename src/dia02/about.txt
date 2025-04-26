@@ -1,1 +1,0 @@
-No dia 02 eu vi sobre método para reaproveitamento e delegação, reforcei a instancia do objeto e criei um estoque simples
