@@ -30,3 +30,5 @@ public class Stock {
     }
     }
 }
+
+// há outras formas de fazer, porém como só foi pedido para fazer isso, fiz dessa forma básica.
