@@ -1,4 +1,4 @@
-package DiaUm;
+package dia01;
 
 public class CarroTestar {
     public static void main(String[] args) {

@@ -41,7 +41,7 @@ Abaixo estão as referências que estou utilizando:
 - Anotações no GitHub
 - Compartilhamento de progresso
 
-### ⏳ Progresso: Dia 02
+### ⏳ Progresso: Dia 03
 
 </div>
 
