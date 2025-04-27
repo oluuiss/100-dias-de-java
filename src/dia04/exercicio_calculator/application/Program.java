@@ -1,4 +1,4 @@
-package calculator.application;
+package dia04.exercicio_calculator.application;
 
 /* 
  * Fazer um programa para ler um valor numérico qualquer, e daí mostrar quanto seria
@@ -6,7 +6,7 @@ package calculator.application;
  * Informar também o valor de PI, com duas casas decimais.
  */
 
-import calculator.util.Calculator;
+import dia04.exercicio_calculator.util.Calculator;
 import java.util.Scanner;
 
 public class Program {
@@ -18,7 +18,7 @@ public class Program {
         calc.radius = sc.nextDouble();
         System.out.printf("Circumference: %.2f%n", calc.circumference());
         System.out.printf("Volume: %.2f%n", calc.volume());
-        System.out.printf("Pi: " + calc.pi + "\n");
+        System.out.printf("Pi: " + calc.PI + "\n");
         sc.close();
     }
 }
