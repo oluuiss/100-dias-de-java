@@ -1,4 +1,4 @@
-package calculator;
+package calculator.util;
 
 public class Calculator {
     public static double pi = 3.14;
