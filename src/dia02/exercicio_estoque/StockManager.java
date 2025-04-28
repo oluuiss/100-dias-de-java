@@ -5,4 +5,7 @@ public class StockManager {
     public String nomeProduto;
     public int quantidade;
     public double preco;
+
+    public StockManager(String nomeProduto, double preco, int quantidade) {
+    }
 }

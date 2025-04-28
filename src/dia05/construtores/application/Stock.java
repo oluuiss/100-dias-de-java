@@ -1,19 +1,20 @@
-package dia02.exercicio_estoque;
+package dia05.construtores.application;
+import dia02.exercicio_estoque.StockManager;
 import java.util.Scanner;
 
 public class Stock {
     public static void main(String[] args) {
-
         while(true){
         Scanner sc = new Scanner(System.in);
         System.out.println("\n\nEnter product data:");
         System.out.print("Name: ");
-        String nomeProduto= sc.nextLine();
+        String nomeProduto = sc.nextLine();
         System.out.print("Price: ");
         double preco = sc.nextDouble();
         System.out.print("Quantity in stock: ");
         int quantidade = sc.nextInt();
         StockManager stock = new StockManager(nomeProduto, preco, quantidade);
+        
         System.out.println("\nProduct data: "+ stock.nomeProduto+", $"+ stock.preco+", "+ stock.quantidade+" units, Total: $"+ stock.quantidade*stock.preco);
         System.out.println("Enther the number of products to be added to stock: ");
         int added = sc.nextInt();
