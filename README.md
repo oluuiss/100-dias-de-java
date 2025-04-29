@@ -41,7 +41,9 @@ Abaixo estão as referências que estou utilizando:
 - Anotações no GitHub
 - Compartilhamento de progresso
 
-### ⏳ Progresso: Dia 05
+> *   Pessoal, não possuo muito tempo disponível em dias de semana. Então, o fluxo de estudo será menor comparado aos fins de semana / feriado.
+
+### ⏳ Progresso: Dia 06
 
 </div>
 
